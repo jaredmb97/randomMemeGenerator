@@ -27,3 +27,7 @@
 	border-right: 8px solid #222;
 	letter-spacing: 3px;
 }
+
+.memeGenerator .memeAuthor {
+	margin: 8px;
+}
